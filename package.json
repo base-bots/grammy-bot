@@ -41,7 +41,7 @@
     "@grammyjs/runner": "^2.0.3",
     "dotenv": "^16.4.7",
     "grammy": "^1.35.1",
-    "pino": "^8.18.0",
+    "pino": "^9.7.0",
     "pino-pretty": "^13.0.0",
     "valibot": "^0.28.0"
   },
